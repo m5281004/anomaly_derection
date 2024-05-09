@@ -15,4 +15,4 @@
 セグメントごとにデータを分ける。
 
 それぞれの手法で異常検知を実行。
-![image](https://github.com/m5281004/anomaly_derection/assets/166366031/82557e07-44d0-45dc-85c6-5d9ba46752f3)
+
